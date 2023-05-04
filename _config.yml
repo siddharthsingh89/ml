@@ -1,9 +1,9 @@
-title:              Siddharth Singh's blog
+title:              Siddharth Singh
 email:              Siddharth.Singh89@live.com
-description:        My thoughts on Machine learning topics
+description:        Machine Learning Blog
 author:             Siddharth Singh
-baseurl:            "/siddharth-singh-blog"
-url:                "https://siddharthsingh89.github.io"
+baseurl:            "/ml"
+url:                "https://siddharth-singh.com"
 
 # Social Profiles
 twitter_username:   siddharthsingh89
